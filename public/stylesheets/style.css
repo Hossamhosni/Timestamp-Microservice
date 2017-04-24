@@ -1,8 +1,14 @@
 body {
-  padding: 50px;
+  padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+.mono {
+  font-family:monospace;
+  background-color: #F9F2F4;
+  color:#7f0707;
+  width:60%;
 }
